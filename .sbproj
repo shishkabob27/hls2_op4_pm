@@ -1,0 +1,34 @@
+{
+  "Title": "Opposing Force Playermodels",
+  "Type": "addon",
+  "Org": "shishkabob",
+  "Ident": "hls2_op4_pm",
+  "Tags": "",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "Resources": null,
+  "MenuResources": null,
+  "HasCode": true,
+  "CodePath": "/code/",
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "Metadata": {
+    "ParentPackage": "shishkabob.hls2",
+    "Compiler": {
+      "RootNamespace": "hls2",
+      "DefineConstants": "SANDBOX;ADDON;DEBUG",
+      "NoWarn": "1701;1702;1591;"
+    },
+    "RenderMaxs": "0,0,0",
+    "RenderMins": "0,0,0",
+    "PhysicsMaxs": "0,0,0",
+    "PhysicsMins": "0,0,0",
+    "PrimaryAsset": "",
+    "Summary": "Muttiplayer playermodels from Opposing Force.",
+    "Description": "",
+    "Public": true,
+    "ReplaceTags": "playermodel",
+    "CsProjName": ""
+  }
+}
